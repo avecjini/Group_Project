@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Combating Sex Trafficking: Examining the Spatial Patterns of Hotels in the U.S. Urban Areas"
-date:   2021-12-04 16:49:06 -0500
+date:   2021-12-1 16:49:06 -0500
 categories: jekyll update
 author: "Jinyi"
 ---
