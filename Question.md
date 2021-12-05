@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Questions
-permalink: /about/
+permalink: /Questions/
 ---
 1. How do we find the relationship between the patterns of geographic and social boundaries of this crime automatically based on demographic and socio-economic characteristics?
 
