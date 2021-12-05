@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background
+title: Research Questions
 permalink: /about/
 ---
 
